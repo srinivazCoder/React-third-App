@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 10px;
+}
+
+.basicReducer h3 {
+  color: #57586cf7;
+  text-align: center;
+  text-decoration-line: underline;
+}
+.basicReducer button,.btn {
+  color: #6a6c93f7;
+  text-decoration-line: underline;
+  cursor: pointer;
+  border: none;
+  height: 1rem;
+}
+.list{
+  display: flex;
+  padding: 1rem;
+  margin: 0.5rem;
+}
+.list > div{
+ 
+  margin-right: 0.5rem;
+}
+
+.counterList{
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.countBtn button{
+  color: #6a6c93f7;
+  border: none;
+  font-size: x-large;
+
+}
+
+.form{
+  display: flex;
+}
+
+.Submit{
+  
+  color: #6a6c93f7;
+  /* border: none; */
+  font-size: large;
+  cursor: pointer;
+}
